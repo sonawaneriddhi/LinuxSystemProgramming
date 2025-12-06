@@ -1,3 +1,7 @@
+//Compilation : gcc creat_2.c -o Myexe
+
+//Execution: ./Myexe Demo.txt > output.txt
+
 //creat using Command line args
 #include<stdio.h>
 #include<fcntl.h>
